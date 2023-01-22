@@ -29,3 +29,9 @@ nate:local$ find . -type d -name "*tensor*"
 ```
 
 Blocker: https://github.com/galeone/tfgo/issues/79
+
+
+## Docs
+
+Cross-referencing my Google Doc: [TensorFlow in
+Go](https://docs.google.com/document/d/1uDuYq-B2kGkzGV4mUakxMDzsmo_jGIec4P5VDJrdVJ4/)
